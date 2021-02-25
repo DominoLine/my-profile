@@ -23,6 +23,11 @@ a:hover {
 	text-decoration: none;
 }
 
+ul
+{
+list-style-type: none;
+}
+
 .text-black {
 	font-weight: 900
 }
