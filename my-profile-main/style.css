@@ -1,0 +1,67 @@
+body {
+	background-color: yellow; 
+	color: rgb(30, 30, 30);
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-weight: 500;
+	letter-spacing: 0px;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+}
+
+p {
+	font-size: 24px;
+	font-weight: 900;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+.text-black {
+	font-weight: 900
+}
+.card-white {
+	background-color: red;
+	box-shadow: 0px 10px 20px rgb(0 0 0 / 10%);
+	padding: 28px;
+	border-radius: 4px;
+	margin:20px 0px;
+}
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+.btn-blue {
+	background-color: blue;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	transition: padding 0.1s ease;
+}
+
+.btn-blue:hover {
+	background-color: black;
+	padding: 17px 22px;
+}
+
+.img-circle {
+	height: 200px;
+	border-radius: 50%;
+	transition: height 0.3s ease;
+}
+.img-circle:hover{
+	height: 300px;
+}
+rgb(230, 230, 230)
