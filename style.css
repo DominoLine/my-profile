@@ -12,6 +12,10 @@ h1 {
 	font-family: 'Poppins', sans-serif;
 }
 
+h2 {
+	color:rgb(109, 182, 178)
+}
+
 p {
 	font-weight: 900;
 }
@@ -26,9 +30,20 @@ a:hover {
 }
 
 ul {
-list-style-type: none;
-padding: 0;
 font-family: 'Poppins', sans-serif;
+padding: 0;
+}
+
+.viewport-scale{
+	height: 70vw;
+}
+
+.bold {
+	font-weight: 900;
+}
+
+.vids {
+list-style-type: none;
 }
 
 .text-black {
@@ -48,7 +63,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 .container {
-	width: 700px;
+	width: 80vw;
 	margin: 40px auto;
 }
 
